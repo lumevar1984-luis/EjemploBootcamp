@@ -14,3 +14,5 @@ if usuario == "pepe" and clave == "123":
     print("Bienvenido al Sistema")
 else:
     print("Usuario o Clave incorrectos")
+
+print("Fin del programa")
